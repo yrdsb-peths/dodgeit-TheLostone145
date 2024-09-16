@@ -1,11 +1,14 @@
 #Greenfoot project file
 class.Hero.image=man01.png
-editor.fx.0.height=25
-editor.fx.0.width=157
-editor.fx.0.x=-16000
-editor.fx.0.y=-16000
+dependency1.from=MyWorld
+dependency1.to=Hero
+dependency1.type=UsesDependency
+editor.fx.0.height=735
+editor.fx.0.width=813
+editor.fx.0.x=233
+editor.fx.0.y=21
 height=813
-package.numDependencies=0
+package.numDependencies=1
 package.numTargets=2
 project.charset=UTF-8
 publish.hasSource=false
